@@ -1,1 +1,1 @@
-{"allocations": {"MSFT": 12.0, "AAPL": 10.0, "NVDA": 8.0, "JPM": 8.0, "JNJ": 7.0, "TLT": 20.0, "IEF": 15.0, "GLD": 12.0, "TIP": 8.0}, "frequency": 14, "name": "", "period": "days"}
+{"allocations": {"QQQ": 25.0, "SPY": 15.0, "IWM": 5.0, "TLT": 20.0, "IEF": 10.0, "GLD": 15.0, "VNQ": 5.0, "DBC": 5.0}, "frequency": 7, "name": "", "period": "days"}
